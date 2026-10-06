@@ -18,7 +18,6 @@ Console.WriteLine($"Letters in last name: {lastName + 0}");
 
 Console.Write(Convert.ToInt32($"Student ID: {rng}"));
 
-//testtest
 // string studentName = Console.ReadLine();
 
 // Console.WriteLine($"Name on badge: {studentName}");
